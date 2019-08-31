@@ -8,6 +8,7 @@
 * `mv dojo-scaffold my_kata && cd my_kata`
 * `./gradlew clean build`
   * 如果你使用Windows，这一步应该是 `gradlew.bat clean build`
+  * gradle wrapper(如果报错)
 
 此时你应该看到成功的build：
 
